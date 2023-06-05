@@ -1,0 +1,37 @@
+algo/producing-3s
+Randomest
+17 solves / 479 points
+nc producing-3s.hsctf.com 1337
+
+Given a file producing-3s.pdf:
+
+Producing 3s
+For each test case, you are given an array a with n integers. For each a i you may
+multiply by any subset of the previous elements in the array (subset may be empty).
+The goal is to have the ones (unit) digit of the product be the digit 3.
+Input:
+The first line gives the number of test cases t (1 ≤ t ≤ 10 3
+)
+The first line of each test case gives the size of the array, n (1 ≤ n ≤ 10 6
+)
+The sum of all n is less than n ≤ 5 ⋅ 10 6
+.
+The second line of each test case gives n integers, a i (-10 9 ≤ a i ≤ 10 9
+)
+Output:
+For each test case, print a string of length n consisting of “N”’s and “Y”’s. For each
+element a i , on the i -th character use a “Y” if it is possible to create a product with a 3 in
+the ones place or a “N” if it is not possible.
+Sample Input:
+2
+10
+5 2 9 8 3 7 6 1 4 10
+5
+3 7 2 7 7
+Sample Output:
+NNNNYYNYNN
+YNNNY
+Explanation for first sample test case:
+The 3 works without multiplying any previous element.
+The 7 works due to 7 * 9, which is 63, which has a 3 as it's ones (unit) digit
+The 1 works due to 1 * 3, which is 3 

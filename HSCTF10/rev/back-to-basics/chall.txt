@@ -1,0 +1,6 @@
+rev/back-to-basics
+Dread
+254 solves / 117 points
+Try to solve it with your eyes closed
+
+Given a file: ReverseEngineeringChallenge.java
