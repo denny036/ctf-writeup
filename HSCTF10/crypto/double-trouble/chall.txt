@@ -1,0 +1,21 @@
+crypto/double-trouble
+Ketchup306
+235 solves / 127 points
+The pros solve it by hand.
+
+Given a file HSCTF_Cryptography_Challenge.pdf
+
+Contents:
+
+___________ Salad: a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil,
+egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its
+original form, this salad was prepared and served tableside.
+
+
+Hvwg gvcizr bch ps hcc vofr.
+Wb toqh, W kwzz uwjs wh hc mci fwuvh bck!
+Hvs tzou wg hvs tczzckwbu:
+OmqemdOubtqdeMdqOaax
+Vcksjsf, wh wg sbqcrsr gc mci vojs hc rsqcrs wh twfgh!
+Pkovovovovo
+Fsasapsf, hvs tzou tcfaoh wg tzou{}
