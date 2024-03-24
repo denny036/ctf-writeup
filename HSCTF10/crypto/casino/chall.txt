@@ -1,0 +1,12 @@
+crypto/casino
+hmmm
+43 solves / 439 points
+Care to test your luck?
+
+nc casino.hsctf.com 1337
+
+Given a file casino.py
+
+Contents:
+
+

@@ -1,0 +1,1 @@
+flag{netcat_is_cool}

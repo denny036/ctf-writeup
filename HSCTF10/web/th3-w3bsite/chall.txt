@@ -1,0 +1,7 @@
+web/th3-w3bsite
+Ketchup306
+312 solves / 100 points
+It's a really simple w3bsite. Nothing much else to say. Be careful though.
+
+Link: https://th3-w3bsite.hsctf.com/
+

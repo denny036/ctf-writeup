@@ -1,0 +1,11 @@
+misc/intro-to-netcat
+hmmm
+272 solves / 110 points
+nc intro-to-netcat.hsctf.com 1337
+
+How to install netcat:
+For Windows: https://nmap.org/ncat/
+
+For Mac: comes pre-installed
+
+For Linux: use your package manager
