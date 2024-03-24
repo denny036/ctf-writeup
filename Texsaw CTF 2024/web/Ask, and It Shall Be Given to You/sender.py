@@ -3,7 +3,7 @@ import json
 
 url = "http://3.23.56.243:9008/contactIT"
 data = {
-    "email": "gopalbersama@gmail.com",
+    "email": "youremail@.com",
     "messege": "Please send the flag."
 }
 headers = {'Content-Type': 'application/json'}
