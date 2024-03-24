@@ -16,7 +16,7 @@ As we can see, we got Admin.zip that we could download. After downloaded the fil
 
 ![alt text](image-3.png)
 
-Analyzing file by file, I got the flag inside the `users.csv` file. It has 61 lines and the flag is on 21th line.
+Analyzing file by file, I got the flag inside the `users.csv` file. It has 61 lines and the flag is on 21st line.
 
 ![alt text](image-4.png)
 
